@@ -17,3 +17,7 @@ Jupyter Notebook for creating a plot of moods throught time.
  ## Limitations:
   - only supports a single entry per day
   - only supports Polish and English
+
+## Examples:
+![Example one](https://raw.githubusercontent.com/kplich/daylio-visualisation/master/daylio%20plot.jpg)
+![Example two](https://raw.githubusercontent.com/kplich/daylio-visualisation/master/example.png)
